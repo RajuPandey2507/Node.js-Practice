@@ -1,0 +1,23 @@
+{
+  "name": "node-js-tutorial",
+  "version": "1.0.0",
+  "description": "Node js practice",
+  "main": "createServer.js",
+  "scripts": {
+    "start":"nodemon createServer.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajuPandey2507/Node.js-Practice.git"
+  },
+  "author": "Raju Pandey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajuPandey2507/Node.js-Practice/issues"
+  },
+  "homepage": "https://github.com/RajuPandey2507/Node.js-Practice#readme",
+  "dependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
